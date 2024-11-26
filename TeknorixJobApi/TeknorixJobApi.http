@@ -1,0 +1,6 @@
+@TeknorixJobApi_HostAddress = http://localhost:5186
+
+GET {{TeknorixJobApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

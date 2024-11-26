@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA33A377-B979-4CF4-A71A-B1E02F64EDF4}|TeknorixJobApi\\TeknorixJobApi.csproj|c:\\users\\ashwi\\source\\repos\\teknorixjobapi\\teknorixjobapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA33A377-B979-4CF4-A71A-B1E02F64EDF4}|TeknorixJobApi\\TeknorixJobApi.csproj|solutionrelative:teknorixjobapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA33A377-B979-4CF4-A71A-B1E02F64EDF4}|TeknorixJobApi\\TeknorixJobApi.csproj|c:\\users\\ashwi\\source\\repos\\teknorixjobapi\\teknorixjobapi\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA33A377-B979-4CF4-A71A-B1E02F64EDF4}|TeknorixJobApi\\TeknorixJobApi.csproj|solutionrelative:teknorixjobapi\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA33A377-B979-4CF4-A71A-B1E02F64EDF4}|TeknorixJobApi\\TeknorixJobApi.csproj|c:\\users\\ashwi\\source\\repos\\teknorixjobapi\\teknorixjobapi\\service\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA33A377-B979-4CF4-A71A-B1E02F64EDF4}|TeknorixJobApi\\TeknorixJobApi.csproj|solutionrelative:teknorixjobapi\\service\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA33A377-B979-4CF4-A71A-B1E02F64EDF4}|TeknorixJobApi\\TeknorixJobApi.csproj|c:\\users\\ashwi\\source\\repos\\teknorixjobapi\\teknorixjobapi\\dtos\\jobfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA33A377-B979-4CF4-A71A-B1E02F64EDF4}|TeknorixJobApi\\TeknorixJobApi.csproj|solutionrelative:teknorixjobapi\\dtos\\jobfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA33A377-B979-4CF4-A71A-B1E02F64EDF4}|TeknorixJobApi\\TeknorixJobApi.csproj|c:\\users\\ashwi\\source\\repos\\teknorixjobapi\\teknorixjobapi\\dtos\\createjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA33A377-B979-4CF4-A71A-B1E02F64EDF4}|TeknorixJobApi\\TeknorixJobApi.csproj|solutionrelative:teknorixjobapi\\dtos\\createjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA33A377-B979-4CF4-A71A-B1E02F64EDF4}|TeknorixJobApi\\TeknorixJobApi.csproj|c:\\users\\ashwi\\source\\repos\\teknorixjobapi\\teknorixjobapi\\service\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA33A377-B979-4CF4-A71A-B1E02F64EDF4}|TeknorixJobApi\\TeknorixJobApi.csproj|solutionrelative:teknorixjobapi\\service\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\TeknorixJobApi\\DTOs\\JobFilterDto.cs",
+              "RelativeDocumentMoniker": "TeknorixJobApi\\DTOs\\JobFilterDto.cs",
+              "ToolTip": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\TeknorixJobApi\\DTOs\\JobFilterDto.cs",
+              "RelativeToolTip": "TeknorixJobApi\\DTOs\\JobFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:49:00.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\TeknorixJobApi\\Service\\LocationService.cs",
+              "RelativeDocumentMoniker": "TeknorixJobApi\\Service\\LocationService.cs",
+              "ToolTip": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\TeknorixJobApi\\Service\\LocationService.cs",
+              "RelativeToolTip": "TeknorixJobApi\\Service\\LocationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:15:42.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\TeknorixJobApi\\Service\\JobService.cs",
+              "RelativeDocumentMoniker": "TeknorixJobApi\\Service\\JobService.cs",
+              "ToolTip": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\TeknorixJobApi\\Service\\JobService.cs",
+              "RelativeToolTip": "TeknorixJobApi\\Service\\JobService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:15:07.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\TeknorixJobApi\\Service\\IJobService.cs",
+              "RelativeDocumentMoniker": "TeknorixJobApi\\Service\\IJobService.cs",
+              "ToolTip": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\TeknorixJobApi\\Service\\IJobService.cs",
+              "RelativeToolTip": "TeknorixJobApi\\Service\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:15:06.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\TeknorixJobApi\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "TeknorixJobApi\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\TeknorixJobApi\\Controllers\\JobController.cs",
+              "RelativeToolTip": "TeknorixJobApi\\Controllers\\JobController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:15:01.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateJobDto.cs",
+              "DocumentMoniker": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\TeknorixJobApi\\DTOs\\CreateJobDto.cs",
+              "RelativeDocumentMoniker": "TeknorixJobApi\\DTOs\\CreateJobDto.cs",
+              "ToolTip": "C:\\Users\\ashwi\\source\\repos\\TeknorixJobApi\\TeknorixJobApi\\DTOs\\CreateJobDto.cs",
+              "RelativeToolTip": "TeknorixJobApi\\DTOs\\CreateJobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:14:15.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
